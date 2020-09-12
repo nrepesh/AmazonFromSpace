@@ -9,6 +9,6 @@ Order of Notebooks
   2. Planet part 2
   3. Planet part 3
   4. Planet part 4
-  5. Planet part 5
-  6. Planet part 6
+  5. Planet part 5 # To save the model 
+  6. Planet part 6 # To run the model and predict
   
