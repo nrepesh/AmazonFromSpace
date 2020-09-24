@@ -8,6 +8,9 @@ Data and Final Model- https://drive.google.com/drive/folders/1KQFLV1c4kgdHW4fBCt
 
 Main Guide- https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-satellite-photos-of-the-amazon-rainforest/
 
+Setting up EC2- https://www.youtube.com/watch?v=pK-LYoRwp-k&t=511s&ab_channel=CodeEmporium 
+                https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
+
 Description
 The competition involved classifying small squares of satellite images taken from space of the Amazon rainforest in Brazil in terms of 17 classes, such as “agriculture“, “clear“, and “water“. Given the name of the competition, the dataset is often referred to simply as the “Planet dataset“.
 
